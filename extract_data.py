@@ -16,7 +16,6 @@ df_filtered.to_csv('us-counties-filtered.csv', index=False)
 
 # Push to Git
 try:
-    # os.chdir('/Users/tiffanyzhu/projects/covid19-projects/covid19-data/')
     github_dir = '/Users/tiffanyzhu/projects/covid19-projects/covid19-data/'
     cmd.run("/usr/local/bin/git -C {} add .".format(github_dir), check=True, shell=True)
     update_message = '"Update data on {}"'.format(datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
