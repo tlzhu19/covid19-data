@@ -4,6 +4,7 @@ import subprocess as cmd
 from datetime import datetime
 import os
 
+github_dir = '/Users/tiffanyzhu/projects/covid19-projects/covid19-data/'
 
 # Filter out a few states
 STATES = ['New Jersey', 'California', 'New York', 'Connecticut']
@@ -12,12 +13,11 @@ counties_df = pd.read_csv(counties_url, dtype=str)
 df_filtered = counties_df[counties_df['state'].isin(STATES)]
 
 # Save filtered file
-df_filtered.to_csv('us-counties-filtered.csv', index=False)
+df_filtered.to_csv(github_dir+'us-counties-filtered.csv', index=False)
 
 
 # Push to Git
 try:
-    github_dir = '/Users/tiffanyzhu/projects/covid19-projects/covid19-data/'
     cmd.run("/usr/local/bin/git -C {} add .".format(github_dir), check=True, shell=True)
     update_message = '"Update data on {}"'.format(datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
     cmd.run('/usr/local/bin/git -C {} commit -m {}'.format(github_dir, update_message), check=True, shell=True)
