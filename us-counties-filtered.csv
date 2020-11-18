@@ -36063,3 +36063,150 @@ date,county,state,fips,cases,deaths
 2020-11-16,Westchester,New York,36119,44575,1490
 2020-11-16,Wyoming,New York,36121,354,5
 2020-11-16,Yates,New York,36123,209,6
+2020-11-17,Alameda,California,06001,26481,493
+2020-11-17,Alpine,California,06003,12,0
+2020-11-17,Amador,California,06005,413,16
+2020-11-17,Butte,California,06007,3501,57
+2020-11-17,Calaveras,California,06009,402,21
+2020-11-17,Colusa,California,06011,608,6
+2020-11-17,Contra Costa,California,06013,21386,253
+2020-11-17,Del Norte,California,06015,235,1
+2020-11-17,El Dorado,California,06017,1694,4
+2020-11-17,Fresno,California,06019,34858,463
+2020-11-17,Glenn,California,06021,786,6
+2020-11-17,Humboldt,California,06023,695,10
+2020-11-17,Imperial,California,06025,14301,350
+2020-11-17,Inyo,California,06027,263,16
+2020-11-17,Kern,California,06029,37141,432
+2020-11-17,Kings,California,06031,9664,87
+2020-11-17,Lake,California,06033,784,18
+2020-11-17,Lassen,California,06035,1177,1
+2020-11-17,Los Angeles,California,06037,342427,7275
+2020-11-17,Madera,California,06039,5561,76
+2020-11-17,Marin,California,06041,7448,128
+2020-11-17,Mariposa,California,06043,92,2
+2020-11-17,Mendocino,California,06045,1311,22
+2020-11-17,Merced,California,06047,10662,174
+2020-11-17,Modoc,California,06049,71,0
+2020-11-17,Mono,California,06051,493,2
+2020-11-17,Monterey,California,06053,13189,111
+2020-11-17,Napa,California,06055,2554,17
+2020-11-17,Nevada,California,06057,929,9
+2020-11-17,Orange,California,06059,68175,1526
+2020-11-17,Placer,California,06061,5489,64
+2020-11-17,Plumas,California,06063,127,0
+2020-11-17,Riverside,California,06065,76724,1374
+2020-11-17,Sacramento,California,06067,31386,533
+2020-11-17,San Benito,California,06069,1643,15
+2020-11-17,San Bernardino,California,06071,76685,1098
+2020-11-17,San Diego,California,06073,66382,933
+2020-11-17,San Francisco,California,06075,13850,156
+2020-11-17,San Joaquin,California,06077,24171,504
+2020-11-17,San Luis Obispo,California,06079,5321,34
+2020-11-17,San Mateo,California,06081,12684,168
+2020-11-17,Santa Barbara,California,06083,10612,133
+2020-11-17,Santa Clara,California,06085,29023,448
+2020-11-17,Santa Cruz,California,06087,3557,26
+2020-11-17,Shasta,California,06089,3483,36
+2020-11-17,Sierra,California,06091,11,0
+2020-11-17,Siskiyou,California,06093,429,1
+2020-11-17,Solano,California,06095,9093,80
+2020-11-17,Sonoma,California,06097,11133,150
+2020-11-17,Stanislaus,California,06099,20610,413
+2020-11-17,Sutter,California,06101,2456,13
+2020-11-17,Tehama,California,06103,1261,19
+2020-11-17,Trinity,California,06105,68,0
+2020-11-17,Tulare,California,06107,19320,301
+2020-11-17,Tuolumne,California,06109,615,8
+2020-11-17,Ventura,California,06111,16691,173
+2020-11-17,Yolo,California,06113,3892,70
+2020-11-17,Yuba,California,06115,1643,10
+2020-11-17,Fairfield,Connecticut,09001,31773,1460
+2020-11-17,Hartford,Connecticut,09003,23636,1541
+2020-11-17,Litchfield,Connecticut,09005,3299,155
+2020-11-17,Middlesex,Connecticut,09007,2863,197
+2020-11-17,New Haven,Connecticut,09009,23593,1168
+2020-11-17,New London,Connecticut,09011,4968,155
+2020-11-17,Tolland,Connecticut,09013,2418,70
+2020-11-17,Unknown,Connecticut,,436,0
+2020-11-17,Windham,Connecticut,09015,2000,25
+2020-11-17,Atlantic,New Jersey,34001,6741,274
+2020-11-17,Bergen,New Jersey,34003,30046,2087
+2020-11-17,Burlington,New Jersey,34005,10890,528
+2020-11-17,Camden,New Jersey,34007,15348,650
+2020-11-17,Cape May,New Jersey,34009,1416,105
+2020-11-17,Cumberland,New Jersey,34011,4530,170
+2020-11-17,Essex,New Jersey,34013,31010,2185
+2020-11-17,Gloucester,New Jersey,34015,7328,257
+2020-11-17,Hudson,New Jersey,34017,27530,1549
+2020-11-17,Hunterdon,New Jersey,34019,2103,128
+2020-11-17,Mercer,New Jersey,34021,11445,648
+2020-11-17,Middlesex,New Jersey,34023,26557,1467
+2020-11-17,Monmouth,New Jersey,34025,17249,881
+2020-11-17,Morris,New Jersey,34027,11574,851
+2020-11-17,Ocean,New Jersey,34029,19020,1089
+2020-11-17,Passaic,New Jersey,34031,25483,1283
+2020-11-17,Salem,New Jersey,34033,1381,91
+2020-11-17,Somerset,New Jersey,34035,7918,604
+2020-11-17,Sussex,New Jersey,34037,2159,198
+2020-11-17,Union,New Jersey,34039,24794,1401
+2020-11-17,Unknown,New Jersey,,706,0
+2020-11-17,Warren,New Jersey,34041,2092,172
+2020-11-17,Albany,New York,36001,4653,135
+2020-11-17,Allegany,New York,36003,667,36
+2020-11-17,Broome,New York,36007,4469,125
+2020-11-17,Cattaraugus,New York,36009,695,22
+2020-11-17,Cayuga,New York,36011,654,6
+2020-11-17,Chautauqua,New York,36013,1265,5
+2020-11-17,Chemung,New York,36015,2404,27
+2020-11-17,Chenango,New York,36017,512,7
+2020-11-17,Clinton,New York,36019,384,5
+2020-11-17,Columbia,New York,36021,895,55
+2020-11-17,Cortland,New York,36023,779,1
+2020-11-17,Delaware,New York,36025,281,6
+2020-11-17,Dutchess,New York,36027,6308,176
+2020-11-17,Erie,New York,36029,18410,714
+2020-11-17,Essex,New York,36031,242,14
+2020-11-17,Franklin,New York,36033,195,3
+2020-11-17,Fulton,New York,36035,403,28
+2020-11-17,Genesee,New York,36037,635,6
+2020-11-17,Greene,New York,36039,593,16
+2020-11-17,Hamilton,New York,36041,26,1
+2020-11-17,Herkimer,New York,36043,508,10
+2020-11-17,Jefferson,New York,36045,339,1
+2020-11-17,Lewis,New York,36049,253,6
+2020-11-17,Livingston,New York,36051,509,7
+2020-11-17,Madison,New York,36053,739,10
+2020-11-17,Monroe,New York,36055,10892,269
+2020-11-17,Montgomery,New York,36057,331,11
+2020-11-17,Nassau,New York,36059,54715,2234
+2020-11-17,New York City,New York,,290018,24146
+2020-11-17,Niagara,New York,36063,2798,97
+2020-11-17,Oneida,New York,36065,3667,141
+2020-11-17,Onondaga,New York,36067,8084,198
+2020-11-17,Ontario,New York,36069,986,30
+2020-11-17,Orange,New York,36071,15298,425
+2020-11-17,Orleans,New York,36073,526,56
+2020-11-17,Oswego,New York,36075,1006,4
+2020-11-17,Otsego,New York,36077,470,5
+2020-11-17,Putnam,New York,36079,2243,64
+2020-11-17,Rensselaer,New York,36083,1364,46
+2020-11-17,Rockland,New York,36087,20044,519
+2020-11-17,Saratoga,New York,36091,1741,17
+2020-11-17,Schenectady,New York,36093,1920,52
+2020-11-17,Schoharie,New York,36095,155,2
+2020-11-17,Schuyler,New York,36097,237,3
+2020-11-17,Seneca,New York,36099,220,2
+2020-11-17,St. Lawrence,New York,36089,603,6
+2020-11-17,Steuben,New York,36101,1448,73
+2020-11-17,Suffolk,New York,36103,54055,2028
+2020-11-17,Sullivan,New York,36105,1993,38
+2020-11-17,Tioga,New York,36107,973,46
+2020-11-17,Tompkins,New York,36109,820,0
+2020-11-17,Ulster,New York,36111,2835,87
+2020-11-17,Warren,New York,36113,515,30
+2020-11-17,Washington,New York,36115,407,14
+2020-11-17,Wayne,New York,36117,808,10
+2020-11-17,Westchester,New York,36119,44974,1490
+2020-11-17,Wyoming,New York,36121,363,5
+2020-11-17,Yates,New York,36123,217,6
