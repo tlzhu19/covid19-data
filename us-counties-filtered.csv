@@ -43560,3 +43560,150 @@ date,county,state,fips,cases,deaths
 2021-01-06,Westchester,New York,36119,74156,1697
 2021-01-06,Wyoming,New York,36121,1625,27
 2021-01-06,Yates,New York,36123,608,13
+2021-01-07,Alameda,California,06001,57102,713
+2021-01-07,Alpine,California,06003,70,0
+2021-01-07,Amador,California,06005,2716,26
+2021-01-07,Butte,California,06007,8217,102
+2021-01-07,Calaveras,California,06009,1321,22
+2021-01-07,Colusa,California,06011,1529,9
+2021-01-07,Contra Costa,California,06013,44967,371
+2021-01-07,Del Norte,California,06015,799,2
+2021-01-07,El Dorado,California,06017,6397,31
+2021-01-07,Fresno,California,06019,71404,711
+2021-01-07,Glenn,California,06021,1622,16
+2021-01-07,Humboldt,California,06023,1998,23
+2021-01-07,Imperial,California,06025,23400,443
+2021-01-07,Inyo,California,06027,630,27
+2021-01-07,Kern,California,06029,74732,523
+2021-01-07,Kings,California,06031,17086,110
+2021-01-07,Lake,California,06033,2033,25
+2021-01-07,Lassen,California,06035,4947,11
+2021-01-07,Los Angeles,California,06037,871749,11545
+2021-01-07,Madera,California,06039,11532,126
+2021-01-07,Marin,California,06041,10468,143
+2021-01-07,Mariposa,California,06043,296,4
+2021-01-07,Mendocino,California,06045,2801,31
+2021-01-07,Merced,California,06047,21139,275
+2021-01-07,Modoc,California,06049,263,1
+2021-01-07,Mono,California,06051,905,4
+2021-01-07,Monterey,California,06053,30706,229
+2021-01-07,Napa,California,06055,6343,33
+2021-01-07,Nevada,California,06057,2854,50
+2021-01-07,Orange,California,06059,188013,1972
+2021-01-07,Placer,California,06061,15233,142
+2021-01-07,Plumas,California,06063,445,5
+2021-01-07,Riverside,California,06065,204327,2189
+2021-01-07,Sacramento,California,06067,71571,955
+2021-01-07,San Benito,California,06069,4127,35
+2021-01-07,San Bernardino,California,06071,216394,1454
+2021-01-07,San Diego,California,06073,180575,1738
+2021-01-07,San Francisco,California,06075,25427,205
+2021-01-07,San Joaquin,California,06077,50104,696
+2021-01-07,San Luis Obispo,California,06079,12597,95
+2021-01-07,San Mateo,California,06081,27050,234
+2021-01-07,Santa Barbara,California,06083,19953,185
+2021-01-07,Santa Clara,California,06085,78683,816
+2021-01-07,Santa Cruz,California,06087,10108,104
+2021-01-07,Shasta,California,06089,8741,95
+2021-01-07,Sierra,California,06091,31,0
+2021-01-07,Siskiyou,California,06093,1280,12
+2021-01-07,Solano,California,06095,21860,102
+2021-01-07,Sonoma,California,06097,20752,214
+2021-01-07,Stanislaus,California,06099,40854,657
+2021-01-07,Sutter,California,06101,6921,69
+2021-01-07,Tehama,California,06103,3306,39
+2021-01-07,Trinity,California,06105,247,4
+2021-01-07,Tulare,California,06107,36214,442
+2021-01-07,Tuolumne,California,06109,3158,23
+2021-01-07,Ventura,California,06111,47428,313
+2021-01-07,Yolo,California,06113,9083,126
+2021-01-07,Yuba,California,06115,4383,25
+2021-01-07,Fairfield,Connecticut,09001,60396,1772
+2021-01-07,Hartford,Connecticut,09003,51050,1917
+2021-01-07,Litchfield,Connecticut,09005,8117,235
+2021-01-07,Middlesex,Connecticut,09007,7341,270
+2021-01-07,New Haven,Connecticut,09009,51566,1615
+2021-01-07,New London,Connecticut,09011,12164,275
+2021-01-07,Tolland,Connecticut,09013,5365,114
+2021-01-07,Unknown,Connecticut,,755,1
+2021-01-07,Windham,Connecticut,09015,6004,88
+2021-01-07,Atlantic,New Jersey,34001,16443,386
+2021-01-07,Bergen,New Jersey,34003,55096,2361
+2021-01-07,Burlington,New Jersey,34005,25271,643
+2021-01-07,Camden,New Jersey,34007,33360,867
+2021-01-07,Cape May,New Jersey,34009,4922,143
+2021-01-07,Cumberland,New Jersey,34011,10005,242
+2021-01-07,Essex,New Jersey,34013,53843,2422
+2021-01-07,Gloucester,New Jersey,34015,17327,420
+2021-01-07,Hudson,New Jersey,34017,50486,1740
+2021-01-07,Hunterdon,New Jersey,34019,4480,140
+2021-01-07,Mercer,New Jersey,34021,20879,747
+2021-01-07,Middlesex,New Jersey,34023,51364,1735
+2021-01-07,Monmouth,New Jersey,34025,37815,1087
+2021-01-07,Morris,New Jersey,34027,25176,987
+2021-01-07,Ocean,New Jersey,34029,38898,1434
+2021-01-07,Passaic,New Jersey,34031,44831,1496
+2021-01-07,Salem,New Jersey,34033,3419,115
+2021-01-07,Somerset,New Jersey,34035,16222,689
+2021-01-07,Sussex,New Jersey,34037,5600,224
+2021-01-07,Union,New Jersey,34039,43384,1584
+2021-01-07,Unknown,New Jersey,,1245,0
+2021-01-07,Warren,New Jersey,34041,4684,184
+2021-01-07,Albany,New York,36001,13410,224
+2021-01-07,Allegany,New York,36003,2015,75
+2021-01-07,Broome,New York,36007,9264,220
+2021-01-07,Cattaraugus,New York,36009,2836,51
+2021-01-07,Cayuga,New York,36011,3589,36
+2021-01-07,Chautauqua,New York,36013,4187,31
+2021-01-07,Chemung,New York,36015,4944,99
+2021-01-07,Chenango,New York,36017,1393,26
+2021-01-07,Clinton,New York,36019,1500,9
+2021-01-07,Columbia,New York,36021,1906,62
+2021-01-07,Cortland,New York,36023,2289,43
+2021-01-07,Delaware,New York,36025,810,14
+2021-01-07,Dutchess,New York,36027,13642,260
+2021-01-07,Erie,New York,36029,45077,1263
+2021-01-07,Essex,New York,36031,724,16
+2021-01-07,Franklin,New York,36033,852,9
+2021-01-07,Fulton,New York,36035,1509,39
+2021-01-07,Genesee,New York,36037,3138,67
+2021-01-07,Greene,New York,36039,1624,32
+2021-01-07,Hamilton,New York,36041,124,1
+2021-01-07,Herkimer,New York,36043,2750,32
+2021-01-07,Jefferson,New York,36045,2245,13
+2021-01-07,Lewis,New York,36049,1117,18
+2021-01-07,Livingston,New York,36051,2195,30
+2021-01-07,Madison,New York,36053,2602,71
+2021-01-07,Monroe,New York,36055,38054,642
+2021-01-07,Montgomery,New York,36057,1633,59
+2021-01-07,Nassau,New York,36059,97746,2452
+2021-01-07,New York City,New York,,467327,25416
+2021-01-07,Niagara,New York,36063,9806,203
+2021-01-07,Oneida,New York,36065,14074,287
+2021-01-07,Onondaga,New York,36067,23764,475
+2021-01-07,Ontario,New York,36069,3900,73
+2021-01-07,Orange,New York,36071,25269,535
+2021-01-07,Orleans,New York,36073,1552,65
+2021-01-07,Oswego,New York,36075,3975,51
+2021-01-07,Otsego,New York,36077,1335,17
+2021-01-07,Putnam,New York,36079,5436,67
+2021-01-07,Rensselaer,New York,36083,5249,89
+2021-01-07,Rockland,New York,36087,29202,600
+2021-01-07,Saratoga,New York,36091,7027,49
+2021-01-07,Schenectady,New York,36093,6952,100
+2021-01-07,Schoharie,New York,36095,679,5
+2021-01-07,Schuyler,New York,36097,604,10
+2021-01-07,Seneca,New York,36099,965,42
+2021-01-07,St. Lawrence,New York,36089,2699,48
+2021-01-07,Steuben,New York,36101,3890,126
+2021-01-07,Suffolk,New York,36103,108255,2410
+2021-01-07,Sullivan,New York,36105,3370,46
+2021-01-07,Tioga,New York,36107,1901,54
+2021-01-07,Tompkins,New York,36109,2278,18
+2021-01-07,Ulster,New York,36111,6417,154
+2021-01-07,Warren,New York,36113,1487,32
+2021-01-07,Washington,New York,36115,1054,18
+2021-01-07,Wayne,New York,36117,3029,46
+2021-01-07,Westchester,New York,36119,75175,1711
+2021-01-07,Wyoming,New York,36121,1673,29
+2021-01-07,Yates,New York,36123,623,13
