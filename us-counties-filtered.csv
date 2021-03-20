@@ -43423,7 +43423,7 @@ date,county,state,fips,cases,deaths
 2021-01-06,Del Norte,California,06015,791,2
 2021-01-06,El Dorado,California,06017,6270,27
 2021-01-06,Fresno,California,06019,70971,711
-2021-01-06,Glenn,California,06021,1608,16
+2021-01-06,Glenn,California,06021,1847,16
 2021-01-06,Humboldt,California,06023,1957,23
 2021-01-06,Imperial,California,06025,23165,436
 2021-01-06,Inyo,California,06027,627,22
@@ -43570,7 +43570,7 @@ date,county,state,fips,cases,deaths
 2021-01-07,Del Norte,California,06015,799,2
 2021-01-07,El Dorado,California,06017,6397,31
 2021-01-07,Fresno,California,06019,71404,711
-2021-01-07,Glenn,California,06021,1622,16
+2021-01-07,Glenn,California,06021,1887,16
 2021-01-07,Humboldt,California,06023,1998,23
 2021-01-07,Imperial,California,06025,23400,443
 2021-01-07,Inyo,California,06027,630,27
@@ -43717,7 +43717,7 @@ date,county,state,fips,cases,deaths
 2021-01-08,Del Norte,California,06015,807,2
 2021-01-08,El Dorado,California,06017,6545,33
 2021-01-08,Fresno,California,06019,72557,711
-2021-01-08,Glenn,California,06021,1639,16
+2021-01-08,Glenn,California,06021,1954,16
 2021-01-08,Humboldt,California,06023,2031,23
 2021-01-08,Imperial,California,06025,23608,445
 2021-01-08,Inyo,California,06027,656,27
@@ -43864,7 +43864,7 @@ date,county,state,fips,cases,deaths
 2021-01-09,Del Norte,California,06015,816,2
 2021-01-09,El Dorado,California,06017,6690,33
 2021-01-09,Fresno,California,06019,73689,711
-2021-01-09,Glenn,California,06021,1680,18
+2021-01-09,Glenn,California,06021,1954,18
 2021-01-09,Humboldt,California,06023,2031,23
 2021-01-09,Imperial,California,06025,23751,445
 2021-01-09,Inyo,California,06027,682,27
@@ -44011,7 +44011,7 @@ date,county,state,fips,cases,deaths
 2021-01-10,Del Norte,California,06015,816,2
 2021-01-10,El Dorado,California,06017,6800,33
 2021-01-10,Fresno,California,06019,74816,711
-2021-01-10,Glenn,California,06021,1707,18
+2021-01-10,Glenn,California,06021,1954,18
 2021-01-10,Humboldt,California,06023,2031,23
 2021-01-10,Imperial,California,06025,24028,445
 2021-01-10,Inyo,California,06027,734,27
@@ -44158,7 +44158,7 @@ date,county,state,fips,cases,deaths
 2021-01-11,Del Norte,California,06015,823,2
 2021-01-11,El Dorado,California,06017,6904,33
 2021-01-11,Fresno,California,06019,75621,711
-2021-01-11,Glenn,California,06021,1746,18
+2021-01-11,Glenn,California,06021,2077,18
 2021-01-11,Humboldt,California,06023,2124,23
 2021-01-11,Imperial,California,06025,24233,445
 2021-01-11,Inyo,California,06027,748,27
@@ -44305,7 +44305,7 @@ date,county,state,fips,cases,deaths
 2021-01-12,Del Norte,California,06015,826,2
 2021-01-12,El Dorado,California,06017,6987,33
 2021-01-12,Fresno,California,06019,76581,838
-2021-01-12,Glenn,California,06021,1763,18
+2021-01-12,Glenn,California,06021,2110,18
 2021-01-12,Humboldt,California,06023,2138,24
 2021-01-12,Imperial,California,06025,24418,448
 2021-01-12,Inyo,California,06027,763,27
@@ -44452,7 +44452,7 @@ date,county,state,fips,cases,deaths
 2021-01-13,Del Norte,California,06015,827,2
 2021-01-13,El Dorado,California,06017,7156,38
 2021-01-13,Fresno,California,06019,77651,846
-2021-01-13,Glenn,California,06021,1781,19
+2021-01-13,Glenn,California,06021,2152,19
 2021-01-13,Humboldt,California,06023,2171,24
 2021-01-13,Imperial,California,06025,24566,453
 2021-01-13,Inyo,California,06027,773,27
@@ -44599,7 +44599,7 @@ date,county,state,fips,cases,deaths
 2021-01-14,Del Norte,California,06015,844,2
 2021-01-14,El Dorado,California,06017,7247,39
 2021-01-14,Fresno,California,06019,78278,846
-2021-01-14,Glenn,California,06021,1792,19
+2021-01-14,Glenn,California,06021,2173,19
 2021-01-14,Humboldt,California,06023,2220,24
 2021-01-14,Imperial,California,06025,24717,459
 2021-01-14,Inyo,California,06027,785,27
@@ -44746,7 +44746,7 @@ date,county,state,fips,cases,deaths
 2021-01-15,Del Norte,California,06015,847,2
 2021-01-15,El Dorado,California,06017,7321,39
 2021-01-15,Fresno,California,06019,79033,904
-2021-01-15,Glenn,California,06021,1798,19
+2021-01-15,Glenn,California,06021,2177,19
 2021-01-15,Humboldt,California,06023,2263,24
 2021-01-15,Imperial,California,06025,24882,462
 2021-01-15,Inyo,California,06027,790,27
@@ -44893,7 +44893,7 @@ date,county,state,fips,cases,deaths
 2021-01-16,Del Norte,California,06015,853,2
 2021-01-16,El Dorado,California,06017,7439,44
 2021-01-16,Fresno,California,06019,79950,932
-2021-01-16,Glenn,California,06021,1824,19
+2021-01-16,Glenn,California,06021,2177,19
 2021-01-16,Humboldt,California,06023,2263,24
 2021-01-16,Imperial,California,06025,24944,462
 2021-01-16,Inyo,California,06027,814,29
@@ -45040,7 +45040,7 @@ date,county,state,fips,cases,deaths
 2021-01-17,Del Norte,California,06015,857,2
 2021-01-17,El Dorado,California,06017,7575,44
 2021-01-17,Fresno,California,06019,81294,932
-2021-01-17,Glenn,California,06021,1894,19
+2021-01-17,Glenn,California,06021,2177,19
 2021-01-17,Humboldt,California,06023,2294,24
 2021-01-17,Imperial,California,06025,25140,462
 2021-01-17,Inyo,California,06027,845,29
@@ -45187,7 +45187,7 @@ date,county,state,fips,cases,deaths
 2021-01-18,Del Norte,California,06015,861,2
 2021-01-18,El Dorado,California,06017,7659,44
 2021-01-18,Fresno,California,06019,82039,932
-2021-01-18,Glenn,California,06021,1924,19
+2021-01-18,Glenn,California,06021,2177,19
 2021-01-18,Humboldt,California,06023,2322,24
 2021-01-18,Imperial,California,06025,25253,462
 2021-01-18,Inyo,California,06027,864,29
@@ -45334,7 +45334,7 @@ date,county,state,fips,cases,deaths
 2021-01-19,Del Norte,California,06015,866,2
 2021-01-19,El Dorado,California,06017,7707,44
 2021-01-19,Fresno,California,06019,82485,932
-2021-01-19,Glenn,California,06021,1935,19
+2021-01-19,Glenn,California,06021,2177,19
 2021-01-19,Humboldt,California,06023,2393,24
 2021-01-19,Imperial,California,06025,25317,464
 2021-01-19,Inyo,California,06027,872,29
@@ -45481,7 +45481,7 @@ date,county,state,fips,cases,deaths
 2021-01-20,Del Norte,California,06015,867,2
 2021-01-20,El Dorado,California,06017,7743,44
 2021-01-20,Fresno,California,06019,83200,968
-2021-01-20,Glenn,California,06021,1948,19
+2021-01-20,Glenn,California,06021,2299,19
 2021-01-20,Humboldt,California,06023,2427,25
 2021-01-20,Imperial,California,06025,25333,473
 2021-01-20,Inyo,California,06027,891,29
@@ -45628,7 +45628,7 @@ date,county,state,fips,cases,deaths
 2021-01-21,Del Norte,California,06015,869,2
 2021-01-21,El Dorado,California,06017,7785,49
 2021-01-21,Fresno,California,06019,83591,968
-2021-01-21,Glenn,California,06021,1955,20
+2021-01-21,Glenn,California,06021,2310,20
 2021-01-21,Humboldt,California,06023,2458,25
 2021-01-21,Imperial,California,06025,25380,485
 2021-01-21,Inyo,California,06027,901,29
@@ -45775,7 +45775,7 @@ date,county,state,fips,cases,deaths
 2021-01-22,Del Norte,California,06015,870,2
 2021-01-22,El Dorado,California,06017,7823,53
 2021-01-22,Fresno,California,06019,84137,1020
-2021-01-22,Glenn,California,06021,1964,20
+2021-01-22,Glenn,California,06021,2339,20
 2021-01-22,Humboldt,California,06023,2494,25
 2021-01-22,Imperial,California,06025,25509,492
 2021-01-22,Inyo,California,06027,946,29
@@ -45922,7 +45922,7 @@ date,county,state,fips,cases,deaths
 2021-01-23,Del Norte,California,06015,873,2
 2021-01-23,El Dorado,California,06017,7877,59
 2021-01-23,Fresno,California,06019,84744,1043
-2021-01-23,Glenn,California,06021,1985,20
+2021-01-23,Glenn,California,06021,2339,20
 2021-01-23,Humboldt,California,06023,2494,25
 2021-01-23,Imperial,California,06025,25562,492
 2021-01-23,Inyo,California,06027,961,29
@@ -46069,7 +46069,7 @@ date,county,state,fips,cases,deaths
 2021-01-24,Del Norte,California,06015,873,2
 2021-01-24,El Dorado,California,06017,7984,59
 2021-01-24,Fresno,California,06019,85274,1043
-2021-01-24,Glenn,California,06021,2015,22
+2021-01-24,Glenn,California,06021,2339,22
 2021-01-24,Humboldt,California,06023,2494,25
 2021-01-24,Imperial,California,06025,25581,492
 2021-01-24,Inyo,California,06027,987,29
@@ -46216,7 +46216,7 @@ date,county,state,fips,cases,deaths
 2021-01-25,Del Norte,California,06015,874,2
 2021-01-25,El Dorado,California,06017,8003,59
 2021-01-25,Fresno,California,06019,85808,1043
-2021-01-25,Glenn,California,06021,2026,22
+2021-01-25,Glenn,California,06021,2377,22
 2021-01-25,Humboldt,California,06023,2624,27
 2021-01-25,Imperial,California,06025,25707,509
 2021-01-25,Inyo,California,06027,1007,29
@@ -46363,7 +46363,7 @@ date,county,state,fips,cases,deaths
 2021-01-26,Del Norte,California,06015,878,3
 2021-01-26,El Dorado,California,06017,8060,62
 2021-01-26,Fresno,California,06019,86336,1067
-2021-01-26,Glenn,California,06021,2028,22
+2021-01-26,Glenn,California,06021,2402,22
 2021-01-26,Humboldt,California,06023,2652,27
 2021-01-26,Imperial,California,06025,25745,509
 2021-01-26,Inyo,California,06027,1015,29
@@ -46510,7 +46510,7 @@ date,county,state,fips,cases,deaths
 2021-01-27,Del Norte,California,06015,879,3
 2021-01-27,El Dorado,California,06017,8115,66
 2021-01-27,Fresno,California,06019,86673,1084
-2021-01-27,Glenn,California,06021,2034,22
+2021-01-27,Glenn,California,06021,2413,22
 2021-01-27,Humboldt,California,06023,2672,27
 2021-01-27,Imperial,California,06025,25812,513
 2021-01-27,Inyo,California,06027,1018,29
@@ -46657,7 +46657,7 @@ date,county,state,fips,cases,deaths
 2021-01-28,Del Norte,California,06015,883,3
 2021-01-28,El Dorado,California,06017,8141,66
 2021-01-28,Fresno,California,06019,86886,1122
-2021-01-28,Glenn,California,06021,2042,22
+2021-01-28,Glenn,California,06021,2419,22
 2021-01-28,Humboldt,California,06023,2725,27
 2021-01-28,Imperial,California,06025,25861,527
 2021-01-28,Inyo,California,06027,1023,29
@@ -46804,7 +46804,7 @@ date,county,state,fips,cases,deaths
 2021-01-29,Del Norte,California,06015,883,3
 2021-01-29,El Dorado,California,06017,8198,74
 2021-01-29,Fresno,California,06019,87401,1137
-2021-01-29,Glenn,California,06021,2043,22
+2021-01-29,Glenn,California,06021,2428,22
 2021-01-29,Humboldt,California,06023,2754,30
 2021-01-29,Imperial,California,06025,25984,531
 2021-01-29,Inyo,California,06027,1039,29
@@ -46951,7 +46951,7 @@ date,county,state,fips,cases,deaths
 2021-01-30,Del Norte,California,06015,883,3
 2021-01-30,El Dorado,California,06017,8231,79
 2021-01-30,Fresno,California,06019,87936,1137
-2021-01-30,Glenn,California,06021,2061,22
+2021-01-30,Glenn,California,06021,2428,22
 2021-01-30,Humboldt,California,06023,2754,30
 2021-01-30,Imperial,California,06025,26045,531
 2021-01-30,Inyo,California,06027,1048,29
@@ -47098,7 +47098,7 @@ date,county,state,fips,cases,deaths
 2021-01-31,Del Norte,California,06015,883,3
 2021-01-31,El Dorado,California,06017,8299,79
 2021-01-31,Fresno,California,06019,88476,1137
-2021-01-31,Glenn,California,06021,2074,23
+2021-01-31,Glenn,California,06021,2428,23
 2021-01-31,Humboldt,California,06023,2754,30
 2021-01-31,Imperial,California,06025,26160,531
 2021-01-31,Inyo,California,06027,1068,29
@@ -47245,7 +47245,7 @@ date,county,state,fips,cases,deaths
 2021-02-01,Del Norte,California,06015,884,3
 2021-02-01,El Dorado,California,06017,8317,79
 2021-02-01,Fresno,California,06019,88852,1137
-2021-02-01,Glenn,California,06021,2083,23
+2021-02-01,Glenn,California,06021,2446,23
 2021-02-01,Humboldt,California,06023,2815,30
 2021-02-01,Imperial,California,06025,26206,548
 2021-02-01,Inyo,California,06027,1072,29
@@ -47392,7 +47392,7 @@ date,county,state,fips,cases,deaths
 2021-02-02,Del Norte,California,06015,886,3
 2021-02-02,El Dorado,California,06017,8337,81
 2021-02-02,Fresno,California,06019,89272,1173
-2021-02-02,Glenn,California,06021,2086,23
+2021-02-02,Glenn,California,06021,2475,23
 2021-02-02,Humboldt,California,06023,2836,31
 2021-02-02,Imperial,California,06025,26224,550
 2021-02-02,Inyo,California,06027,1072,29
@@ -47539,7 +47539,7 @@ date,county,state,fips,cases,deaths
 2021-02-03,Del Norte,California,06015,888,3
 2021-02-03,El Dorado,California,06017,8405,81
 2021-02-03,Fresno,California,06019,89542,1185
-2021-02-03,Glenn,California,06021,2090,23
+2021-02-03,Glenn,California,06021,2484,23
 2021-02-03,Humboldt,California,06023,2849,31
 2021-02-03,Imperial,California,06025,26317,550
 2021-02-03,Inyo,California,06027,1074,29
@@ -47686,7 +47686,7 @@ date,county,state,fips,cases,deaths
 2021-02-04,Del Norte,California,06015,892,3
 2021-02-04,El Dorado,California,06017,8428,83
 2021-02-04,Fresno,California,06019,89748,1198
-2021-02-04,Glenn,California,06021,2098,23
+2021-02-04,Glenn,California,06021,2489,23
 2021-02-04,Humboldt,California,06023,2877,31
 2021-02-04,Imperial,California,06025,26363,550
 2021-02-04,Inyo,California,06027,1071,29
@@ -47833,7 +47833,7 @@ date,county,state,fips,cases,deaths
 2021-02-05,Del Norte,California,06015,894,3
 2021-02-05,El Dorado,California,06017,8490,85
 2021-02-05,Fresno,California,06019,90126,1224
-2021-02-05,Glenn,California,06021,2102,23
+2021-02-05,Glenn,California,06021,2489,23
 2021-02-05,Humboldt,California,06023,2907,31
 2021-02-05,Imperial,California,06025,26411,559
 2021-02-05,Inyo,California,06027,1084,29
@@ -47980,7 +47980,7 @@ date,county,state,fips,cases,deaths
 2021-02-06,Del Norte,California,06015,898,3
 2021-02-06,El Dorado,California,06017,8527,86
 2021-02-06,Fresno,California,06019,90513,1224
-2021-02-06,Glenn,California,06021,2122,23
+2021-02-06,Glenn,California,06021,2489,23
 2021-02-06,Humboldt,California,06023,2907,31
 2021-02-06,Imperial,California,06025,26474,559
 2021-02-06,Inyo,California,06027,1104,29
@@ -48127,7 +48127,7 @@ date,county,state,fips,cases,deaths
 2021-02-07,Del Norte,California,06015,898,3
 2021-02-07,El Dorado,California,06017,8575,86
 2021-02-07,Fresno,California,06019,90944,1224
-2021-02-07,Glenn,California,06021,2136,23
+2021-02-07,Glenn,California,06021,2489,23
 2021-02-07,Humboldt,California,06023,2907,31
 2021-02-07,Imperial,California,06025,26514,559
 2021-02-07,Inyo,California,06027,1113,29
@@ -48274,7 +48274,7 @@ date,county,state,fips,cases,deaths
 2021-02-08,Del Norte,California,06015,904,3
 2021-02-08,El Dorado,California,06017,8596,86
 2021-02-08,Fresno,California,06019,91184,1224
-2021-02-08,Glenn,California,06021,2141,23
+2021-02-08,Glenn,California,06021,2528,23
 2021-02-08,Humboldt,California,06023,2955,32
 2021-02-08,Imperial,California,06025,26518,560
 2021-02-08,Inyo,California,06027,1124,29
@@ -48421,7 +48421,7 @@ date,county,state,fips,cases,deaths
 2021-02-09,Del Norte,California,06015,905,3
 2021-02-09,El Dorado,California,06017,8627,86
 2021-02-09,Fresno,California,06019,91430,1254
-2021-02-09,Glenn,California,06021,2148,23
+2021-02-09,Glenn,California,06021,2544,23
 2021-02-09,Humboldt,California,06023,2960,32
 2021-02-09,Imperial,California,06025,26526,572
 2021-02-09,Inyo,California,06027,1126,32
@@ -48568,7 +48568,7 @@ date,county,state,fips,cases,deaths
 2021-02-10,Del Norte,California,06015,911,3
 2021-02-10,El Dorado,California,06017,8663,86
 2021-02-10,Fresno,California,06019,91730,1258
-2021-02-10,Glenn,California,06021,2156,23
+2021-02-10,Glenn,California,06021,2545,23
 2021-02-10,Humboldt,California,06023,2976,32
 2021-02-10,Imperial,California,06025,26549,573
 2021-02-10,Inyo,California,06027,1137,34
@@ -48715,7 +48715,7 @@ date,county,state,fips,cases,deaths
 2021-02-11,Del Norte,California,06015,919,4
 2021-02-11,El Dorado,California,06017,8682,86
 2021-02-11,Fresno,California,06019,91876,1283
-2021-02-11,Glenn,California,06021,2160,23
+2021-02-11,Glenn,California,06021,2615,23
 2021-02-11,Humboldt,California,06023,3009,32
 2021-02-11,Imperial,California,06025,26589,583
 2021-02-11,Inyo,California,06027,1138,34
@@ -48862,7 +48862,7 @@ date,county,state,fips,cases,deaths
 2021-02-12,Del Norte,California,06015,922,4
 2021-02-12,El Dorado,California,06017,8698,88
 2021-02-12,Fresno,California,06019,92168,1291
-2021-02-12,Glenn,California,06021,2166,23
+2021-02-12,Glenn,California,06021,2615,23
 2021-02-12,Humboldt,California,06023,3009,32
 2021-02-12,Imperial,California,06025,26616,583
 2021-02-12,Inyo,California,06027,1144,34
@@ -49009,7 +49009,7 @@ date,county,state,fips,cases,deaths
 2021-02-13,Del Norte,California,06015,929,4
 2021-02-13,El Dorado,California,06017,8725,90
 2021-02-13,Fresno,California,06019,92520,1291
-2021-02-13,Glenn,California,06021,2175,23
+2021-02-13,Glenn,California,06021,2615,23
 2021-02-13,Humboldt,California,06023,3009,32
 2021-02-13,Imperial,California,06025,26646,583
 2021-02-13,Inyo,California,06027,1156,34
@@ -49156,7 +49156,7 @@ date,county,state,fips,cases,deaths
 2021-02-14,Del Norte,California,06015,929,4
 2021-02-14,El Dorado,California,06017,8758,90
 2021-02-14,Fresno,California,06019,92807,1291
-2021-02-14,Glenn,California,06021,2182,23
+2021-02-14,Glenn,California,06021,2615,23
 2021-02-14,Humboldt,California,06023,3009,32
 2021-02-14,Imperial,California,06025,26680,583
 2021-02-14,Inyo,California,06027,1168,34
@@ -49303,7 +49303,7 @@ date,county,state,fips,cases,deaths
 2021-02-15,Del Norte,California,06015,931,4
 2021-02-15,El Dorado,California,06017,8790,90
 2021-02-15,Fresno,California,06019,93065,1291
-2021-02-15,Glenn,California,06021,2184,23
+2021-02-15,Glenn,California,06021,2615,23
 2021-02-15,Humboldt,California,06023,3025,32
 2021-02-15,Imperial,California,06025,26696,583
 2021-02-15,Inyo,California,06027,1177,34
@@ -49450,7 +49450,7 @@ date,county,state,fips,cases,deaths
 2021-02-16,Del Norte,California,06015,938,4
 2021-02-16,El Dorado,California,06017,8816,90
 2021-02-16,Fresno,California,06019,93231,1291
-2021-02-16,Glenn,California,06021,2185,23
+2021-02-16,Glenn,California,06021,2641,23
 2021-02-16,Humboldt,California,06023,3025,32
 2021-02-16,Imperial,California,06025,26779,583
 2021-02-16,Inyo,California,06027,1184,34
@@ -49597,7 +49597,7 @@ date,county,state,fips,cases,deaths
 2021-02-17,Del Norte,California,06015,947,4
 2021-02-17,El Dorado,California,06017,8836,91
 2021-02-17,Fresno,California,06019,93363,1341
-2021-02-17,Glenn,California,06021,2189,23
+2021-02-17,Glenn,California,06021,2647,23
 2021-02-17,Humboldt,California,06023,3036,32
 2021-02-17,Imperial,California,06025,26797,583
 2021-02-17,Inyo,California,06027,1191,34
@@ -49744,7 +49744,7 @@ date,county,state,fips,cases,deaths
 2021-02-18,Del Norte,California,06015,954,5
 2021-02-18,El Dorado,California,06017,8847,91
 2021-02-18,Fresno,California,06019,93555,1349
-2021-02-18,Glenn,California,06021,2189,23
+2021-02-18,Glenn,California,06021,2647,23
 2021-02-18,Humboldt,California,06023,3053,32
 2021-02-18,Imperial,California,06025,26817,583
 2021-02-18,Inyo,California,06027,1197,34
@@ -49891,7 +49891,7 @@ date,county,state,fips,cases,deaths
 2021-02-19,Del Norte,California,06015,955,5
 2021-02-19,El Dorado,California,06017,8850,91
 2021-02-19,Fresno,California,06019,93734,1356
-2021-02-19,Glenn,California,06021,2195,23
+2021-02-19,Glenn,California,06021,2664,23
 2021-02-19,Humboldt,California,06023,3067,32
 2021-02-19,Imperial,California,06025,26840,583
 2021-02-19,Inyo,California,06027,1213,34
@@ -50038,7 +50038,7 @@ date,county,state,fips,cases,deaths
 2021-02-20,Del Norte,California,06015,959,5
 2021-02-20,El Dorado,California,06017,8882,93
 2021-02-20,Fresno,California,06019,93973,1367
-2021-02-20,Glenn,California,06021,2199,23
+2021-02-20,Glenn,California,06021,2664,23
 2021-02-20,Humboldt,California,06023,3067,32
 2021-02-20,Imperial,California,06025,26840,583
 2021-02-20,Inyo,California,06027,1212,34
@@ -50185,7 +50185,7 @@ date,county,state,fips,cases,deaths
 2021-02-21,Del Norte,California,06015,959,5
 2021-02-21,El Dorado,California,06017,8911,93
 2021-02-21,Fresno,California,06019,94234,1367
-2021-02-21,Glenn,California,06021,2199,23
+2021-02-21,Glenn,California,06021,2664,23
 2021-02-21,Humboldt,California,06023,3073,32
 2021-02-21,Imperial,California,06025,26840,583
 2021-02-21,Inyo,California,06027,1226,34
@@ -50332,7 +50332,7 @@ date,county,state,fips,cases,deaths
 2021-02-22,Del Norte,California,06015,971,5
 2021-02-22,El Dorado,California,06017,8927,93
 2021-02-22,Fresno,California,06019,94374,1367
-2021-02-22,Glenn,California,06021,2201,23
+2021-02-22,Glenn,California,06021,2671,23
 2021-02-22,Humboldt,California,06023,3124,32
 2021-02-22,Imperial,California,06025,26840,583
 2021-02-22,Inyo,California,06027,1232,34
@@ -50479,7 +50479,7 @@ date,county,state,fips,cases,deaths
 2021-02-23,Del Norte,California,06015,976,5
 2021-02-23,El Dorado,California,06017,8940,95
 2021-02-23,Fresno,California,06019,94584,1397
-2021-02-23,Glenn,California,06021,2207,23
+2021-02-23,Glenn,California,06021,2673,23
 2021-02-23,Humboldt,California,06023,3136,33
 2021-02-23,Imperial,California,06025,26840,585
 2021-02-23,Inyo,California,06027,1248,34
@@ -50626,7 +50626,7 @@ date,county,state,fips,cases,deaths
 2021-02-24,Del Norte,California,06015,986,5
 2021-02-24,El Dorado,California,06017,8969,95
 2021-02-24,Fresno,California,06019,94741,1401
-2021-02-24,Glenn,California,06021,2209,23
+2021-02-24,Glenn,California,06021,2673,23
 2021-02-24,Humboldt,California,06023,3151,33
 2021-02-24,Imperial,California,06025,26840,584
 2021-02-24,Inyo,California,06027,1250,35
@@ -50773,7 +50773,7 @@ date,county,state,fips,cases,deaths
 2021-02-25,Del Norte,California,06015,987,5
 2021-02-25,El Dorado,California,06017,8993,98
 2021-02-25,Fresno,California,06019,94794,1412
-2021-02-25,Glenn,California,06021,2210,23
+2021-02-25,Glenn,California,06021,2673,23
 2021-02-25,Humboldt,California,06023,3160,33
 2021-02-25,Imperial,California,06025,26843,585
 2021-02-25,Inyo,California,06027,1253,36
@@ -50920,7 +50920,7 @@ date,county,state,fips,cases,deaths
 2021-02-26,Del Norte,California,06015,994,5
 2021-02-26,El Dorado,California,06017,9012,100
 2021-02-26,Fresno,California,06019,95015,1422
-2021-02-26,Glenn,California,06021,2219,23
+2021-02-26,Glenn,California,06021,2693,23
 2021-02-26,Humboldt,California,06023,3180,33
 2021-02-26,Imperial,California,06025,26855,586
 2021-02-26,Inyo,California,06027,1264,36
@@ -51067,7 +51067,7 @@ date,county,state,fips,cases,deaths
 2021-02-27,Del Norte,California,06015,1001,5
 2021-02-27,El Dorado,California,06017,9038,100
 2021-02-27,Fresno,California,06019,95202,1443
-2021-02-27,Glenn,California,06021,2220,23
+2021-02-27,Glenn,California,06021,2693,23
 2021-02-27,Humboldt,California,06023,3180,33
 2021-02-27,Imperial,California,06025,26888,590
 2021-02-27,Inyo,California,06027,1271,37
@@ -51214,7 +51214,7 @@ date,county,state,fips,cases,deaths
 2021-02-28,Del Norte,California,06015,1001,5
 2021-02-28,El Dorado,California,06017,9072,100
 2021-02-28,Fresno,California,06019,95393,1443
-2021-02-28,Glenn,California,06021,2225,23
+2021-02-28,Glenn,California,06021,2693,23
 2021-02-28,Humboldt,California,06023,3180,33
 2021-02-28,Imperial,California,06025,26903,590
 2021-02-28,Inyo,California,06027,1275,37
@@ -51361,7 +51361,7 @@ date,county,state,fips,cases,deaths
 2021-03-01,Del Norte,California,06015,1003,5
 2021-03-01,El Dorado,California,06017,9082,100
 2021-03-01,Fresno,California,06019,95548,1443
-2021-03-01,Glenn,California,06021,2230,23
+2021-03-01,Glenn,California,06021,2705,23
 2021-03-01,Humboldt,California,06023,3210,33
 2021-03-01,Imperial,California,06025,26909,632
 2021-03-01,Inyo,California,06027,1282,37
@@ -51508,7 +51508,7 @@ date,county,state,fips,cases,deaths
 2021-03-02,Del Norte,California,06015,1007,5
 2021-03-02,El Dorado,California,06017,9085,100
 2021-03-02,Fresno,California,06019,95677,1451
-2021-03-02,Glenn,California,06021,2232,23
+2021-03-02,Glenn,California,06021,2708,23
 2021-03-02,Humboldt,California,06023,3219,33
 2021-03-02,Imperial,California,06025,26913,635
 2021-03-02,Inyo,California,06027,1285,37
@@ -51655,7 +51655,7 @@ date,county,state,fips,cases,deaths
 2021-03-03,Del Norte,California,06015,1008,5
 2021-03-03,El Dorado,California,06017,9116,100
 2021-03-03,Fresno,California,06019,95785,1451
-2021-03-03,Glenn,California,06021,2232,23
+2021-03-03,Glenn,California,06021,2709,23
 2021-03-03,Humboldt,California,06023,3230,33
 2021-03-03,Imperial,California,06025,26926,635
 2021-03-03,Inyo,California,06027,1292,37
@@ -51802,7 +51802,7 @@ date,county,state,fips,cases,deaths
 2021-03-04,Del Norte,California,06015,1016,5
 2021-03-04,El Dorado,California,06017,9121,100
 2021-03-04,Fresno,California,06019,95893,1458
-2021-03-04,Glenn,California,06021,2233,23
+2021-03-04,Glenn,California,06021,2711,23
 2021-03-04,Humboldt,California,06023,3246,33
 2021-03-04,Imperial,California,06025,26939,635
 2021-03-04,Inyo,California,06027,1294,37
@@ -51949,7 +51949,7 @@ date,county,state,fips,cases,deaths
 2021-03-05,Del Norte,California,06015,1020,5
 2021-03-05,El Dorado,California,06017,9133,100
 2021-03-05,Fresno,California,06019,96023,1466
-2021-03-05,Glenn,California,06021,2236,23
+2021-03-05,Glenn,California,06021,2715,23
 2021-03-05,Humboldt,California,06023,3266,33
 2021-03-05,Imperial,California,06025,26946,638
 2021-03-05,Inyo,California,06027,1300,37
@@ -52096,7 +52096,7 @@ date,county,state,fips,cases,deaths
 2021-03-06,Del Norte,California,06015,1027,5
 2021-03-06,El Dorado,California,06017,9150,100
 2021-03-06,Fresno,California,06019,96184,1488
-2021-03-06,Glenn,California,06021,2241,23
+2021-03-06,Glenn,California,06021,2715,23
 2021-03-06,Humboldt,California,06023,3266,33
 2021-03-06,Imperial,California,06025,26970,638
 2021-03-06,Inyo,California,06027,1309,37
@@ -52243,7 +52243,7 @@ date,county,state,fips,cases,deaths
 2021-03-07,Del Norte,California,06015,1027,5
 2021-03-07,El Dorado,California,06017,9166,100
 2021-03-07,Fresno,California,06019,96366,1488
-2021-03-07,Glenn,California,06021,2241,23
+2021-03-07,Glenn,California,06021,2715,23
 2021-03-07,Humboldt,California,06023,3266,33
 2021-03-07,Imperial,California,06025,27009,638
 2021-03-07,Inyo,California,06027,1312,37
@@ -52390,7 +52390,7 @@ date,county,state,fips,cases,deaths
 2021-03-08,Del Norte,California,06015,1034,5
 2021-03-08,El Dorado,California,06017,9184,100
 2021-03-08,Fresno,California,06019,96549,1488
-2021-03-08,Glenn,California,06021,2244,23
+2021-03-08,Glenn,California,06021,2724,23
 2021-03-08,Humboldt,California,06023,3308,33
 2021-03-08,Imperial,California,06025,27019,658
 2021-03-08,Inyo,California,06027,1320,37
@@ -52537,7 +52537,7 @@ date,county,state,fips,cases,deaths
 2021-03-09,Del Norte,California,06015,1037,5
 2021-03-09,El Dorado,California,06017,9188,100
 2021-03-09,Fresno,California,06019,96665,1505
-2021-03-09,Glenn,California,06021,2249,23
+2021-03-09,Glenn,California,06021,2727,23
 2021-03-09,Humboldt,California,06023,3317,34
 2021-03-09,Imperial,California,06025,27033,658
 2021-03-09,Inyo,California,06027,1320,37
@@ -52684,7 +52684,7 @@ date,county,state,fips,cases,deaths
 2021-03-10,Del Norte,California,06015,1043,5
 2021-03-10,El Dorado,California,06017,9198,101
 2021-03-10,Fresno,California,06019,96744,1509
-2021-03-10,Glenn,California,06021,2251,23
+2021-03-10,Glenn,California,06021,2733,23
 2021-03-10,Humboldt,California,06023,3326,34
 2021-03-10,Imperial,California,06025,27045,663
 2021-03-10,Inyo,California,06027,1324,37
@@ -52831,7 +52831,7 @@ date,county,state,fips,cases,deaths
 2021-03-11,Del Norte,California,06015,1050,5
 2021-03-11,El Dorado,California,06017,9203,103
 2021-03-11,Fresno,California,06019,96866,1519
-2021-03-11,Glenn,California,06021,2253,23
+2021-03-11,Glenn,California,06021,2734,23
 2021-03-11,Humboldt,California,06023,3335,34
 2021-03-11,Imperial,California,06025,27051,675
 2021-03-11,Inyo,California,06027,1328,37
@@ -52978,7 +52978,7 @@ date,county,state,fips,cases,deaths
 2021-03-12,Del Norte,California,06015,1056,5
 2021-03-12,El Dorado,California,06017,9211,104
 2021-03-12,Fresno,California,06019,97026,1527
-2021-03-12,Glenn,California,06021,2255,23
+2021-03-12,Glenn,California,06021,2739,23
 2021-03-12,Humboldt,California,06023,3349,34
 2021-03-12,Imperial,California,06025,27045,677
 2021-03-12,Inyo,California,06027,1335,37
@@ -53125,7 +53125,7 @@ date,county,state,fips,cases,deaths
 2021-03-13,Del Norte,California,06015,1056,6
 2021-03-13,El Dorado,California,06017,9219,103
 2021-03-13,Fresno,California,06019,97185,1527
-2021-03-13,Glenn,California,06021,2258,15
+2021-03-13,Glenn,California,06021,2739,15
 2021-03-13,Humboldt,California,06023,3349,34
 2021-03-13,Imperial,California,06025,27071,677
 2021-03-13,Inyo,California,06027,1339,35
@@ -53272,7 +53272,7 @@ date,county,state,fips,cases,deaths
 2021-03-14,Del Norte,California,06015,1056,6
 2021-03-14,El Dorado,California,06017,9221,103
 2021-03-14,Fresno,California,06019,97324,1527
-2021-03-14,Glenn,California,06021,2260,15
+2021-03-14,Glenn,California,06021,2739,15
 2021-03-14,Humboldt,California,06023,3349,34
 2021-03-14,Imperial,California,06025,27099,677
 2021-03-14,Inyo,California,06027,1344,35
@@ -53419,7 +53419,7 @@ date,county,state,fips,cases,deaths
 2021-03-15,Del Norte,California,06015,1068,6
 2021-03-15,El Dorado,California,06017,9231,103
 2021-03-15,Fresno,California,06019,97461,1527
-2021-03-15,Glenn,California,06021,2260,15
+2021-03-15,Glenn,California,06021,2745,15
 2021-03-15,Humboldt,California,06023,3370,34
 2021-03-15,Imperial,California,06025,27122,684
 2021-03-15,Inyo,California,06027,1346,35
@@ -53566,7 +53566,7 @@ date,county,state,fips,cases,deaths
 2021-03-16,Del Norte,California,06015,1069,6
 2021-03-16,El Dorado,California,06017,9235,103
 2021-03-16,Fresno,California,06019,97520,1527
-2021-03-16,Glenn,California,06021,2261,15
+2021-03-16,Glenn,California,06021,2747,15
 2021-03-16,Humboldt,California,06023,3383,34
 2021-03-16,Imperial,California,06025,27122,683
 2021-03-16,Inyo,California,06027,1346,35
@@ -53703,3 +53703,444 @@ date,county,state,fips,cases,deaths
 2021-03-16,Westchester,New York,36119,113576,2152
 2021-03-16,Wyoming,New York,36121,2963,49
 2021-03-16,Yates,New York,36123,1037,26
+2021-03-17,Alameda,California,06001,82280,1358
+2021-03-17,Alpine,California,06003,82,0
+2021-03-17,Amador,California,06005,3509,44
+2021-03-17,Butte,California,06007,11154,184
+2021-03-17,Calaveras,California,06009,1945,49
+2021-03-17,Colusa,California,06011,2155,14
+2021-03-17,Contra Costa,California,06013,64280,736
+2021-03-17,Del Norte,California,06015,1078,6
+2021-03-17,El Dorado,California,06017,9249,105
+2021-03-17,Fresno,California,06019,97638,1527
+2021-03-17,Glenn,California,06021,2757,17
+2021-03-17,Humboldt,California,06023,3392,35
+2021-03-17,Imperial,California,06025,27143,688
+2021-03-17,Inyo,California,06027,1346,35
+2021-03-17,Kern,California,06029,105144,1144
+2021-03-17,Kings,California,06031,22425,236
+2021-03-17,Lake,California,06033,3246,43
+2021-03-17,Lassen,California,06035,5632,1
+2021-03-17,Los Angeles,California,06037,1212389,22580
+2021-03-17,Madera,California,06039,15822,226
+2021-03-17,Marin,California,06041,13419,218
+2021-03-17,Mariposa,California,06043,400,7
+2021-03-17,Mendocino,California,06045,3888,46
+2021-03-17,Merced,California,06047,30027,425
+2021-03-17,Modoc,California,06049,341,3
+2021-03-17,Mono,California,06051,1207,4
+2021-03-17,Monterey,California,06053,42643,337
+2021-03-17,Napa,California,06055,9210,75
+2021-03-17,Nevada,California,06057,4143,74
+2021-03-17,Orange,California,06059,264216,4511
+2021-03-17,Placer,California,06061,20407,240
+2021-03-17,Plumas,California,06063,643,4
+2021-03-17,Riverside,California,06065,292606,4052
+2021-03-17,Sacramento,California,06067,95666,1559
+2021-03-17,San Benito,California,06069,5831,61
+2021-03-17,San Bernardino,California,06071,289057,4032
+2021-03-17,San Diego,California,06073,266380,3470
+2021-03-17,San Francisco,California,06075,34836,456
+2021-03-17,San Joaquin,California,06077,68301,1213
+2021-03-17,San Luis Obispo,California,06079,20136,253
+2021-03-17,San Mateo,California,06081,39806,536
+2021-03-17,Santa Barbara,California,06083,32703,433
+2021-03-17,Santa Clara,California,06085,113044,1876
+2021-03-17,Santa Cruz,California,06087,15137,199
+2021-03-17,Shasta,California,06089,11084,194
+2021-03-17,Sierra,California,06091,49,0
+2021-03-17,Siskiyou,California,06093,1842,14
+2021-03-17,Solano,California,06095,30675,178
+2021-03-17,Sonoma,California,06097,28850,308
+2021-03-17,Stanislaus,California,06099,57817,976
+2021-03-17,Sutter,California,06101,9020,102
+2021-03-17,Tehama,California,06103,4660,34
+2021-03-17,Trinity,California,06105,309,3
+2021-03-17,Tulare,California,06107,48691,803
+2021-03-17,Tuolumne,California,06109,4003,59
+2021-03-17,Ventura,California,06111,78968,937
+2021-03-17,Yolo,California,06113,13162,190
+2021-03-17,Yuba,California,06115,5892,42
+2021-03-17,Fairfield,Connecticut,09001,84510,2097
+2021-03-17,Hartford,Connecticut,09003,72636,2327
+2021-03-17,Litchfield,Connecticut,09005,11782,284
+2021-03-17,Middlesex,Connecticut,09007,10979,347
+2021-03-17,New Haven,Connecticut,09009,75759,1970
+2021-03-17,New London,Connecticut,09011,19888,417
+2021-03-17,Tolland,Connecticut,09013,8227,174
+2021-03-17,Unknown,Connecticut,,1035,9
+2021-03-17,Windham,Connecticut,09015,9512,182
+2021-03-17,Atlantic,New Jersey,34001,26483,595
+2021-03-17,Bergen,New Jersey,34003,84573,2680
+2021-03-17,Burlington,New Jersey,34005,37508,774
+2021-03-17,Camden,New Jersey,34007,46318,1209
+2021-03-17,Cape May,New Jersey,34009,7730,189
+2021-03-17,Cumberland,New Jersey,34011,14861,388
+2021-03-17,Essex,New Jersey,34013,79098,2735
+2021-03-17,Gloucester,New Jersey,34015,25433,566
+2021-03-17,Hudson,New Jersey,34017,74437,2061
+2021-03-17,Hunterdon,New Jersey,34019,7580,166
+2021-03-17,Mercer,New Jersey,34021,29315,894
+2021-03-17,Middlesex,New Jersey,34023,77871,2164
+2021-03-17,Monmouth,New Jersey,34025,62683,1453
+2021-03-17,Morris,New Jersey,34027,41464,1152
+2021-03-17,Ocean,New Jersey,34029,63683,1940
+2021-03-17,Passaic,New Jersey,34031,60625,1747
+2021-03-17,Salem,New Jersey,34033,4911,166
+2021-03-17,Somerset,New Jersey,34035,24725,798
+2021-03-17,Sussex,New Jersey,34037,10137,278
+2021-03-17,Union,New Jersey,34039,60518,1825
+2021-03-17,Unknown,New Jersey,,1196,0
+2021-03-17,Warren,New Jersey,34041,7726,224
+2021-03-17,Albany,New York,36001,21736,339
+2021-03-17,Allegany,New York,36003,2965,82
+2021-03-17,Broome,New York,36007,15938,341
+2021-03-17,Cattaraugus,New York,36009,4607,79
+2021-03-17,Cayuga,New York,36011,5497,90
+2021-03-17,Chautauqua,New York,36013,7598,129
+2021-03-17,Chemung,New York,36015,6573,131
+2021-03-17,Chenango,New York,36017,2598,71
+2021-03-17,Clinton,New York,36019,3936,29
+2021-03-17,Columbia,New York,36021,3532,97
+2021-03-17,Cortland,New York,36023,3315,60
+2021-03-17,Delaware,New York,36025,1721,34
+2021-03-17,Dutchess,New York,36027,24156,418
+2021-03-17,Erie,New York,36029,68964,1633
+2021-03-17,Essex,New York,36031,1408,26
+2021-03-17,Franklin,New York,36033,2225,12
+2021-03-17,Fulton,New York,36035,3556,85
+2021-03-17,Genesee,New York,36037,4597,120
+2021-03-17,Greene,New York,36039,2796,72
+2021-03-17,Hamilton,New York,36041,290,2
+2021-03-17,Herkimer,New York,36043,4666,107
+2021-03-17,Jefferson,New York,36045,5050,63
+2021-03-17,Lewis,New York,36049,2167,31
+2021-03-17,Livingston,New York,36051,3685,57
+2021-03-17,Madison,New York,36053,3956,85
+2021-03-17,Monroe,New York,36055,54470,1008
+2021-03-17,Montgomery,New York,36057,3350,107
+2021-03-17,Nassau,New York,36059,158769,2998
+2021-03-17,New York City,New York,,788302,30406
+2021-03-17,Niagara,New York,36063,15872,323
+2021-03-17,Oneida,New York,36065,20306,486
+2021-03-17,Onondaga,New York,36067,33312,646
+2021-03-17,Ontario,New York,36069,6054,90
+2021-03-17,Orange,New York,36071,40045,661
+2021-03-17,Orleans,New York,36073,2515,82
+2021-03-17,Oswego,New York,36075,6305,89
+2021-03-17,Otsego,New York,36077,2650,44
+2021-03-17,Putnam,New York,36079,8891,88
+2021-03-17,Rensselaer,New York,36083,9531,133
+2021-03-17,Rockland,New York,36087,41359,705
+2021-03-17,Saratoga,New York,36091,12611,151
+2021-03-17,Schenectady,New York,36093,11295,186
+2021-03-17,Schoharie,New York,36095,1312,13
+2021-03-17,Schuyler,New York,36097,889,12
+2021-03-17,Seneca,New York,36099,1715,55
+2021-03-17,St. Lawrence,New York,36089,5824,92
+2021-03-17,Steuben,New York,36101,5698,140
+2021-03-17,Suffolk,New York,36103,172670,3176
+2021-03-17,Sullivan,New York,36105,5092,62
+2021-03-17,Tioga,New York,36107,2965,56
+2021-03-17,Tompkins,New York,36109,3656,47
+2021-03-17,Ulster,New York,36111,10893,233
+2021-03-17,Warren,New York,36113,3003,55
+2021-03-17,Washington,New York,36115,2493,54
+2021-03-17,Wayne,New York,36117,4647,65
+2021-03-17,Westchester,New York,36119,113998,2155
+2021-03-17,Wyoming,New York,36121,2969,49
+2021-03-17,Yates,New York,36123,1039,26
+2021-03-18,Alameda,California,06001,82389,1366
+2021-03-18,Alpine,California,06003,82,0
+2021-03-18,Amador,California,06005,3510,44
+2021-03-18,Butte,California,06007,11170,185
+2021-03-18,Calaveras,California,06009,1946,49
+2021-03-18,Colusa,California,06011,2155,15
+2021-03-18,Contra Costa,California,06013,64358,737
+2021-03-18,Del Norte,California,06015,1090,6
+2021-03-18,El Dorado,California,06017,9252,105
+2021-03-18,Fresno,California,06019,97727,1527
+2021-03-18,Glenn,California,06021,2757,17
+2021-03-18,Humboldt,California,06023,3406,35
+2021-03-18,Imperial,California,06025,27168,690
+2021-03-18,Inyo,California,06027,1351,35
+2021-03-18,Kern,California,06029,105222,1149
+2021-03-18,Kings,California,06031,22441,237
+2021-03-18,Lake,California,06033,3251,43
+2021-03-18,Lassen,California,06035,5634,1
+2021-03-18,Los Angeles,California,06037,1213242,22664
+2021-03-18,Madera,California,06039,15835,226
+2021-03-18,Marin,California,06041,13428,218
+2021-03-18,Mariposa,California,06043,400,7
+2021-03-18,Mendocino,California,06045,3895,46
+2021-03-18,Merced,California,06047,30087,428
+2021-03-18,Modoc,California,06049,341,3
+2021-03-18,Mono,California,06051,1212,4
+2021-03-18,Monterey,California,06053,42667,338
+2021-03-18,Napa,California,06055,9234,76
+2021-03-18,Nevada,California,06057,4160,74
+2021-03-18,Orange,California,06059,264335,4522
+2021-03-18,Placer,California,06061,20460,244
+2021-03-18,Plumas,California,06063,645,4
+2021-03-18,Riverside,California,06065,292817,4097
+2021-03-18,Sacramento,California,06067,95836,1565
+2021-03-18,San Benito,California,06069,5841,61
+2021-03-18,San Bernardino,California,06071,289242,4049
+2021-03-18,San Diego,California,06073,266819,3478
+2021-03-18,San Francisco,California,06075,34876,457
+2021-03-18,San Joaquin,California,06077,68551,1216
+2021-03-18,San Luis Obispo,California,06079,20172,253
+2021-03-18,San Mateo,California,06081,39838,536
+2021-03-18,Santa Barbara,California,06083,32755,434
+2021-03-18,Santa Clara,California,06085,113173,1893
+2021-03-18,Santa Cruz,California,06087,15169,199
+2021-03-18,Shasta,California,06089,11113,195
+2021-03-18,Sierra,California,06091,49,0
+2021-03-18,Siskiyou,California,06093,1846,14
+2021-03-18,Solano,California,06095,30715,181
+2021-03-18,Sonoma,California,06097,28882,308
+2021-03-18,Stanislaus,California,06099,57904,978
+2021-03-18,Sutter,California,06101,9029,103
+2021-03-18,Tehama,California,06103,4670,34
+2021-03-18,Trinity,California,06105,309,3
+2021-03-18,Tulare,California,06107,48740,805
+2021-03-18,Tuolumne,California,06109,4006,59
+2021-03-18,Ventura,California,06111,79028,940
+2021-03-18,Yolo,California,06113,13169,192
+2021-03-18,Yuba,California,06115,5900,42
+2021-03-18,Fairfield,Connecticut,09001,84837,2098
+2021-03-18,Hartford,Connecticut,09003,72873,2329
+2021-03-18,Litchfield,Connecticut,09005,11858,284
+2021-03-18,Middlesex,Connecticut,09007,11020,348
+2021-03-18,New Haven,Connecticut,09009,76092,1976
+2021-03-18,New London,Connecticut,09011,19956,418
+2021-03-18,Tolland,Connecticut,09013,8256,176
+2021-03-18,Unknown,Connecticut,,1041,9
+2021-03-18,Windham,Connecticut,09015,9551,184
+2021-03-18,Atlantic,New Jersey,34001,26594,596
+2021-03-18,Bergen,New Jersey,34003,85044,2682
+2021-03-18,Burlington,New Jersey,34005,37675,778
+2021-03-18,Camden,New Jersey,34007,46496,1213
+2021-03-18,Cape May,New Jersey,34009,7762,189
+2021-03-18,Cumberland,New Jersey,34011,14884,392
+2021-03-18,Essex,New Jersey,34013,79541,2740
+2021-03-18,Gloucester,New Jersey,34015,25536,566
+2021-03-18,Hudson,New Jersey,34017,74909,2072
+2021-03-18,Hunterdon,New Jersey,34019,7629,166
+2021-03-18,Mercer,New Jersey,34021,29423,895
+2021-03-18,Middlesex,New Jersey,34023,78287,2171
+2021-03-18,Monmouth,New Jersey,34025,63054,1461
+2021-03-18,Morris,New Jersey,34027,41744,1159
+2021-03-18,Ocean,New Jersey,34029,64004,1947
+2021-03-18,Passaic,New Jersey,34031,60899,1753
+2021-03-18,Salem,New Jersey,34033,4929,167
+2021-03-18,Somerset,New Jersey,34035,24879,800
+2021-03-18,Sussex,New Jersey,34037,10250,278
+2021-03-18,Union,New Jersey,34039,60820,1827
+2021-03-18,Unknown,New Jersey,,1207,0
+2021-03-18,Warren,New Jersey,34041,7781,224
+2021-03-18,Albany,New York,36001,21806,339
+2021-03-18,Allegany,New York,36003,2970,82
+2021-03-18,Broome,New York,36007,15987,341
+2021-03-18,Cattaraugus,New York,36009,4623,79
+2021-03-18,Cayuga,New York,36011,5504,90
+2021-03-18,Chautauqua,New York,36013,7635,129
+2021-03-18,Chemung,New York,36015,6590,131
+2021-03-18,Chenango,New York,36017,2609,71
+2021-03-18,Clinton,New York,36019,3950,29
+2021-03-18,Columbia,New York,36021,3544,97
+2021-03-18,Cortland,New York,36023,3321,60
+2021-03-18,Delaware,New York,36025,1737,34
+2021-03-18,Dutchess,New York,36027,24282,418
+2021-03-18,Erie,New York,36029,69273,1634
+2021-03-18,Essex,New York,36031,1412,26
+2021-03-18,Franklin,New York,36033,2231,12
+2021-03-18,Fulton,New York,36035,3578,85
+2021-03-18,Genesee,New York,36037,4624,120
+2021-03-18,Greene,New York,36039,2806,72
+2021-03-18,Hamilton,New York,36041,290,2
+2021-03-18,Herkimer,New York,36043,4674,107
+2021-03-18,Jefferson,New York,36045,5063,63
+2021-03-18,Lewis,New York,36049,2181,32
+2021-03-18,Livingston,New York,36051,3695,57
+2021-03-18,Madison,New York,36053,3967,85
+2021-03-18,Monroe,New York,36055,54672,1010
+2021-03-18,Montgomery,New York,36057,3362,108
+2021-03-18,Nassau,New York,36059,159401,3000
+2021-03-18,New York City,New York,,790069,30471
+2021-03-18,Niagara,New York,36063,15907,323
+2021-03-18,Oneida,New York,36065,20338,487
+2021-03-18,Onondaga,New York,36067,33385,646
+2021-03-18,Ontario,New York,36069,6075,90
+2021-03-18,Orange,New York,36071,40292,661
+2021-03-18,Orleans,New York,36073,2520,82
+2021-03-18,Oswego,New York,36075,6328,89
+2021-03-18,Otsego,New York,36077,2670,44
+2021-03-18,Putnam,New York,36079,8928,88
+2021-03-18,Rensselaer,New York,36083,9570,133
+2021-03-18,Rockland,New York,36087,41546,706
+2021-03-18,Saratoga,New York,36091,12664,151
+2021-03-18,Schenectady,New York,36093,11322,186
+2021-03-18,Schoharie,New York,36095,1323,13
+2021-03-18,Schuyler,New York,36097,893,12
+2021-03-18,Seneca,New York,36099,1727,55
+2021-03-18,St. Lawrence,New York,36089,5831,92
+2021-03-18,Steuben,New York,36101,5709,140
+2021-03-18,Suffolk,New York,36103,173321,3185
+2021-03-18,Sullivan,New York,36105,5114,62
+2021-03-18,Tioga,New York,36107,2982,56
+2021-03-18,Tompkins,New York,36109,3680,47
+2021-03-18,Ulster,New York,36111,10973,233
+2021-03-18,Warren,New York,36113,3017,55
+2021-03-18,Washington,New York,36115,2501,54
+2021-03-18,Wayne,New York,36117,4658,65
+2021-03-18,Westchester,New York,36119,114401,2159
+2021-03-18,Wyoming,New York,36121,2976,49
+2021-03-18,Yates,New York,36123,1040,26
+2021-03-19,Alameda,California,06001,82481,1366
+2021-03-19,Alpine,California,06003,82,0
+2021-03-19,Amador,California,06005,3512,44
+2021-03-19,Butte,California,06007,11179,185
+2021-03-19,Calaveras,California,06009,1954,49
+2021-03-19,Colusa,California,06011,2156,15
+2021-03-19,Contra Costa,California,06013,64454,739
+2021-03-19,Del Norte,California,06015,1095,6
+2021-03-19,El Dorado,California,06017,9261,105
+2021-03-19,Fresno,California,06019,97856,1527
+2021-03-19,Glenn,California,06021,2760,24
+2021-03-19,Humboldt,California,06023,3419,35
+2021-03-19,Imperial,California,06025,27190,694
+2021-03-19,Inyo,California,06027,1354,35
+2021-03-19,Kern,California,06029,105368,1158
+2021-03-19,Kings,California,06031,22459,237
+2021-03-19,Lake,California,06033,3260,43
+2021-03-19,Lassen,California,06035,5634,1
+2021-03-19,Los Angeles,California,06037,1213934,22722
+2021-03-19,Madera,California,06039,15860,226
+2021-03-19,Marin,California,06041,13435,219
+2021-03-19,Mariposa,California,06043,401,7
+2021-03-19,Mendocino,California,06045,3899,46
+2021-03-19,Merced,California,06047,30142,428
+2021-03-19,Modoc,California,06049,341,3
+2021-03-19,Mono,California,06051,1215,4
+2021-03-19,Monterey,California,06053,42712,338
+2021-03-19,Napa,California,06055,9248,77
+2021-03-19,Nevada,California,06057,4162,74
+2021-03-19,Orange,California,06059,264478,4536
+2021-03-19,Placer,California,06061,20493,244
+2021-03-19,Plumas,California,06063,648,4
+2021-03-19,Riverside,California,06065,292967,4117
+2021-03-19,Sacramento,California,06067,95963,1576
+2021-03-19,San Benito,California,06069,5842,61
+2021-03-19,San Bernardino,California,06071,289405,4076
+2021-03-19,San Diego,California,06073,267240,3491
+2021-03-19,San Francisco,California,06075,34907,461
+2021-03-19,San Joaquin,California,06077,68714,1229
+2021-03-19,San Luis Obispo,California,06079,20189,253
+2021-03-19,San Mateo,California,06081,39874,543
+2021-03-19,Santa Barbara,California,06083,32798,435
+2021-03-19,Santa Clara,California,06085,113292,1902
+2021-03-19,Santa Cruz,California,06087,15196,198
+2021-03-19,Shasta,California,06089,11113,195
+2021-03-19,Sierra,California,06091,49,0
+2021-03-19,Siskiyou,California,06093,1850,14
+2021-03-19,Solano,California,06095,30750,181
+2021-03-19,Sonoma,California,06097,28915,308
+2021-03-19,Stanislaus,California,06099,58019,979
+2021-03-19,Sutter,California,06101,9042,103
+2021-03-19,Tehama,California,06103,4683,35
+2021-03-19,Trinity,California,06105,311,3
+2021-03-19,Tulare,California,06107,48770,805
+2021-03-19,Tuolumne,California,06109,4008,59
+2021-03-19,Ventura,California,06111,79090,943
+2021-03-19,Yolo,California,06113,13183,191
+2021-03-19,Yuba,California,06115,5903,42
+2021-03-19,Fairfield,Connecticut,09001,85225,2097
+2021-03-19,Hartford,Connecticut,09003,73092,2333
+2021-03-19,Litchfield,Connecticut,09005,11942,284
+2021-03-19,Middlesex,Connecticut,09007,11056,349
+2021-03-19,New Haven,Connecticut,09009,76466,1980
+2021-03-19,New London,Connecticut,09011,20012,418
+2021-03-19,Tolland,Connecticut,09013,8276,178
+2021-03-19,Unknown,Connecticut,,1043,9
+2021-03-19,Windham,Connecticut,09015,9579,184
+2021-03-19,Atlantic,New Jersey,34001,26726,596
+2021-03-19,Bergen,New Jersey,34003,85586,2688
+2021-03-19,Burlington,New Jersey,34005,37844,778
+2021-03-19,Camden,New Jersey,34007,46639,1213
+2021-03-19,Cape May,New Jersey,34009,7790,190
+2021-03-19,Cumberland,New Jersey,34011,14917,394
+2021-03-19,Essex,New Jersey,34013,79950,2742
+2021-03-19,Gloucester,New Jersey,34015,25651,566
+2021-03-19,Hudson,New Jersey,34017,75218,2074
+2021-03-19,Hunterdon,New Jersey,34019,7679,166
+2021-03-19,Mercer,New Jersey,34021,29515,896
+2021-03-19,Middlesex,New Jersey,34023,78719,2172
+2021-03-19,Monmouth,New Jersey,34025,63415,1467
+2021-03-19,Morris,New Jersey,34027,42009,1159
+2021-03-19,Ocean,New Jersey,34029,64374,1949
+2021-03-19,Passaic,New Jersey,34031,61257,1757
+2021-03-19,Salem,New Jersey,34033,4948,167
+2021-03-19,Somerset,New Jersey,34035,25004,800
+2021-03-19,Sussex,New Jersey,34037,10343,278
+2021-03-19,Union,New Jersey,34039,61090,1827
+2021-03-19,Unknown,New Jersey,,1225,0
+2021-03-19,Warren,New Jersey,34041,7840,224
+2021-03-19,Albany,New York,36001,21867,339
+2021-03-19,Allegany,New York,36003,2971,82
+2021-03-19,Broome,New York,36007,16026,341
+2021-03-19,Cattaraugus,New York,36009,4626,79
+2021-03-19,Cayuga,New York,36011,5512,90
+2021-03-19,Chautauqua,New York,36013,7660,129
+2021-03-19,Chemung,New York,36015,6598,131
+2021-03-19,Chenango,New York,36017,2625,71
+2021-03-19,Clinton,New York,36019,3962,29
+2021-03-19,Columbia,New York,36021,3564,97
+2021-03-19,Cortland,New York,36023,3325,60
+2021-03-19,Delaware,New York,36025,1752,34
+2021-03-19,Dutchess,New York,36027,24409,419
+2021-03-19,Erie,New York,36029,69594,1636
+2021-03-19,Essex,New York,36031,1417,26
+2021-03-19,Franklin,New York,36033,2234,12
+2021-03-19,Fulton,New York,36035,3596,85
+2021-03-19,Genesee,New York,36037,4643,120
+2021-03-19,Greene,New York,36039,2822,72
+2021-03-19,Hamilton,New York,36041,290,2
+2021-03-19,Herkimer,New York,36043,4678,107
+2021-03-19,Jefferson,New York,36045,5073,63
+2021-03-19,Lewis,New York,36049,2192,32
+2021-03-19,Livingston,New York,36051,3705,57
+2021-03-19,Madison,New York,36053,3974,85
+2021-03-19,Monroe,New York,36055,54801,1010
+2021-03-19,Montgomery,New York,36057,3380,108
+2021-03-19,Nassau,New York,36059,160103,3006
+2021-03-19,New York City,New York,,791453,30519
+2021-03-19,Niagara,New York,36063,15936,323
+2021-03-19,Oneida,New York,36065,20368,487
+2021-03-19,Onondaga,New York,36067,33441,646
+2021-03-19,Ontario,New York,36069,6096,90
+2021-03-19,Orange,New York,36071,40514,663
+2021-03-19,Orleans,New York,36073,2532,82
+2021-03-19,Oswego,New York,36075,6345,89
+2021-03-19,Otsego,New York,36077,2693,44
+2021-03-19,Putnam,New York,36079,8994,88
+2021-03-19,Rensselaer,New York,36083,9601,133
+2021-03-19,Rockland,New York,36087,41729,708
+2021-03-19,Saratoga,New York,36091,12714,151
+2021-03-19,Schenectady,New York,36093,11356,186
+2021-03-19,Schoharie,New York,36095,1330,13
+2021-03-19,Schuyler,New York,36097,899,12
+2021-03-19,Seneca,New York,36099,1733,55
+2021-03-19,St. Lawrence,New York,36089,5836,93
+2021-03-19,Steuben,New York,36101,5720,140
+2021-03-19,Suffolk,New York,36103,174032,3194
+2021-03-19,Sullivan,New York,36105,5153,63
+2021-03-19,Tioga,New York,36107,2996,56
+2021-03-19,Tompkins,New York,36109,3699,47
+2021-03-19,Ulster,New York,36111,11037,233
+2021-03-19,Warren,New York,36113,3022,55
+2021-03-19,Washington,New York,36115,2507,54
+2021-03-19,Wayne,New York,36117,4665,65
+2021-03-19,Westchester,New York,36119,114801,2162
+2021-03-19,Wyoming,New York,36121,2983,49
+2021-03-19,Yates,New York,36123,1040,26
