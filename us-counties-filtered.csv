@@ -55356,7 +55356,7 @@ date,county,state,fips,cases,deaths
 2021-03-28,Sacramento,California,06067,97246,1599
 2021-03-28,San Benito,California,06069,5862,61
 2021-03-28,San Bernardino,California,06071,290630,4325
-2021-03-28,San Diego,California,06073,269903,3547
+2021-03-28,San Diego,California,06073,269543,3547
 2021-03-28,San Francisco,California,06075,35247,474
 2021-03-28,San Joaquin,California,06077,69448,1250
 2021-03-28,San Luis Obispo,California,06079,20402,255
@@ -55368,7 +55368,7 @@ date,county,state,fips,cases,deaths
 2021-03-28,Sierra,California,06091,50,0
 2021-03-28,Siskiyou,California,06093,1870,15
 2021-03-28,Solano,California,06095,31014,232
-2021-03-28,Sonoma,California,06097,29169,310
+2021-03-28,Sonoma,California,06097,29199,310
 2021-03-28,Stanislaus,California,06099,58602,992
 2021-03-28,Sutter,California,06101,9110,106
 2021-03-28,Tehama,California,06103,4738,52
@@ -55467,3 +55467,150 @@ date,county,state,fips,cases,deaths
 2021-03-28,Westchester,New York,36119,118504,2190
 2021-03-28,Wyoming,New York,36121,3051,49
 2021-03-28,Yates,New York,36123,1052,26
+2021-03-29,Alameda,California,06001,83264,1399
+2021-03-29,Alpine,California,06003,85,0
+2021-03-29,Amador,California,06005,3540,45
+2021-03-29,Butte,California,06007,11285,191
+2021-03-29,Calaveras,California,06009,1995,50
+2021-03-29,Colusa,California,06011,2164,16
+2021-03-29,Contra Costa,California,06013,65230,767
+2021-03-29,Del Norte,California,06015,1138,6
+2021-03-29,El Dorado,California,06017,9371,105
+2021-03-29,Fresno,California,06019,99004,1606
+2021-03-29,Glenn,California,06021,2814,25
+2021-03-29,Humboldt,California,06023,3473,36
+2021-03-29,Imperial,California,06025,27426,711
+2021-03-29,Inyo,California,06027,1372,35
+2021-03-29,Kern,California,06029,106127,1239
+2021-03-29,Kings,California,06031,22610,241
+2021-03-29,Lake,California,06033,3320,43
+2021-03-29,Lassen,California,06035,5653,1
+2021-03-29,Los Angeles,California,06037,1219237,23101
+2021-03-29,Madera,California,06039,15973,231
+2021-03-29,Marin,California,06041,13594,221
+2021-03-29,Mariposa,California,06043,410,7
+2021-03-29,Mendocino,California,06045,3939,46
+2021-03-29,Merced,California,06047,30521,435
+2021-03-29,Modoc,California,06049,344,3
+2021-03-29,Mono,California,06051,1242,4
+2021-03-29,Monterey,California,06053,42890,340
+2021-03-29,Napa,California,06055,9385,78
+2021-03-29,Nevada,California,06057,4256,74
+2021-03-29,Orange,California,06059,265926,4726
+2021-03-29,Placer,California,06061,20888,272
+2021-03-29,Plumas,California,06063,657,4
+2021-03-29,Riverside,California,06065,294063,4273
+2021-03-29,Sacramento,California,06067,97480,1602
+2021-03-29,San Benito,California,06069,5862,61
+2021-03-29,San Bernardino,California,06071,290715,4332
+2021-03-29,San Diego,California,06073,269833,3547
+2021-03-29,San Francisco,California,06075,35289,474
+2021-03-29,San Joaquin,California,06077,69550,1259
+2021-03-29,San Luis Obispo,California,06079,20433,255
+2021-03-29,San Mateo,California,06081,40305,547
+2021-03-29,Santa Barbara,California,06083,33105,439
+2021-03-29,Santa Clara,California,06085,114398,1938
+2021-03-29,Santa Cruz,California,06087,15354,201
+2021-03-29,Shasta,California,06089,11319,200
+2021-03-29,Sierra,California,06091,50,0
+2021-03-29,Siskiyou,California,06093,1875,16
+2021-03-29,Solano,California,06095,31126,232
+2021-03-29,Sonoma,California,06097,29199,310
+2021-03-29,Stanislaus,California,06099,58804,996
+2021-03-29,Sutter,California,06101,9134,106
+2021-03-29,Tehama,California,06103,4740,52
+2021-03-29,Trinity,California,06105,315,3
+2021-03-29,Tulare,California,06107,49005,815
+2021-03-29,Tuolumne,California,06109,4031,62
+2021-03-29,Ventura,California,06111,79588,972
+2021-03-29,Yolo,California,06113,13325,196
+2021-03-29,Yuba,California,06115,5981,42
+2021-03-29,Fairfield,Connecticut,09001,88876,2108
+2021-03-29,Hartford,Connecticut,09003,75294,2345
+2021-03-29,Litchfield,Connecticut,09005,12713,283
+2021-03-29,Middlesex,Connecticut,09007,11475,352
+2021-03-29,New Haven,Connecticut,09009,80047,2000
+2021-03-29,New London,Connecticut,09011,20582,421
+2021-03-29,Tolland,Connecticut,09013,8536,176
+2021-03-29,Unknown,Connecticut,,1078,11
+2021-03-29,Windham,Connecticut,09015,9838,187
+2021-03-29,Atlantic,New Jersey,34001,28006,601
+2021-03-29,Bergen,New Jersey,34003,90376,2724
+2021-03-29,Burlington,New Jersey,34005,39490,791
+2021-03-29,Camden,New Jersey,34007,48400,1218
+2021-03-29,Cape May,New Jersey,34009,8167,193
+2021-03-29,Cumberland,New Jersey,34011,15292,399
+2021-03-29,Essex,New Jersey,34013,84148,2787
+2021-03-29,Gloucester,New Jersey,34015,26677,575
+2021-03-29,Hudson,New Jersey,34017,79054,2104
+2021-03-29,Hunterdon,New Jersey,34019,8203,169
+2021-03-29,Mercer,New Jersey,34021,30627,905
+2021-03-29,Middlesex,New Jersey,34023,82649,2193
+2021-03-29,Monmouth,New Jersey,34025,67270,1486
+2021-03-29,Morris,New Jersey,34027,44401,1171
+2021-03-29,Ocean,New Jersey,34029,67801,1979
+2021-03-29,Passaic,New Jersey,34031,63717,1779
+2021-03-29,Salem,New Jersey,34033,5173,169
+2021-03-29,Somerset,New Jersey,34035,26429,804
+2021-03-29,Sussex,New Jersey,34037,11329,283
+2021-03-29,Union,New Jersey,34039,63599,1848
+2021-03-29,Unknown,New Jersey,,1143,0
+2021-03-29,Warren,New Jersey,34041,8320,226
+2021-03-29,Albany,New York,36001,22476,340
+2021-03-29,Allegany,New York,36003,3014,82
+2021-03-29,Broome,New York,36007,16492,343
+2021-03-29,Cattaraugus,New York,36009,4761,79
+2021-03-29,Cayuga,New York,36011,5599,90
+2021-03-29,Chautauqua,New York,36013,7867,130
+2021-03-29,Chemung,New York,36015,6797,131
+2021-03-29,Chenango,New York,36017,2784,72
+2021-03-29,Clinton,New York,36019,4155,30
+2021-03-29,Columbia,New York,36021,3664,98
+2021-03-29,Cortland,New York,36023,3390,60
+2021-03-29,Delaware,New York,36025,1887,34
+2021-03-29,Dutchess,New York,36027,25807,425
+2021-03-29,Erie,New York,36029,73171,1651
+2021-03-29,Essex,New York,36031,1443,26
+2021-03-29,Franklin,New York,36033,2292,12
+2021-03-29,Fulton,New York,36035,3737,85
+2021-03-29,Genesee,New York,36037,4760,121
+2021-03-29,Greene,New York,36039,2944,73
+2021-03-29,Hamilton,New York,36041,293,2
+2021-03-29,Herkimer,New York,36043,4757,107
+2021-03-29,Jefferson,New York,36045,5194,63
+2021-03-29,Lewis,New York,36049,2302,33
+2021-03-29,Livingston,New York,36051,3780,58
+2021-03-29,Madison,New York,36053,4086,85
+2021-03-29,Monroe,New York,36055,56400,1018
+2021-03-29,Montgomery,New York,36057,3539,112
+2021-03-29,Nassau,New York,36059,166365,3038
+2021-03-29,New York City,New York,,839533,31117
+2021-03-29,Niagara,New York,36063,16399,328
+2021-03-29,Oneida,New York,36065,20758,493
+2021-03-29,Onondaga,New York,36067,34127,654
+2021-03-29,Ontario,New York,36069,6297,90
+2021-03-29,Orange,New York,36071,42784,670
+2021-03-29,Orleans,New York,36073,2575,82
+2021-03-29,Oswego,New York,36075,6565,89
+2021-03-29,Otsego,New York,36077,2873,46
+2021-03-29,Putnam,New York,36079,9438,90
+2021-03-29,Rensselaer,New York,36083,9931,133
+2021-03-29,Rockland,New York,36087,43237,714
+2021-03-29,Saratoga,New York,36091,13275,154
+2021-03-29,Schenectady,New York,36093,11737,187
+2021-03-29,Schoharie,New York,36095,1399,14
+2021-03-29,Schuyler,New York,36097,924,12
+2021-03-29,Seneca,New York,36099,1777,56
+2021-03-29,St. Lawrence,New York,36089,5917,94
+2021-03-29,Steuben,New York,36101,5889,140
+2021-03-29,Suffolk,New York,36103,181006,3235
+2021-03-29,Sullivan,New York,36105,5449,64
+2021-03-29,Tioga,New York,36107,3112,57
+2021-03-29,Tompkins,New York,36109,3866,49
+2021-03-29,Ulster,New York,36111,11859,237
+2021-03-29,Warren,New York,36113,3148,55
+2021-03-29,Washington,New York,36115,2647,55
+2021-03-29,Wayne,New York,36117,4810,66
+2021-03-29,Westchester,New York,36119,118963,2194
+2021-03-29,Wyoming,New York,36121,3057,49
+2021-03-29,Yates,New York,36123,1054,26
