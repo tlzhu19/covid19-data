@@ -1,3 +1,7 @@
+"""
+Script to read new data, save as csv. Then push new file to git.
+"""
+
 import pandas as pd
 from urllib.request import urlopen
 import subprocess as cmd
