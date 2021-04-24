@@ -1,4 +1,4 @@
-# covid19-extract_data
+# covid19-data
 
 * extract_data.py: script that filters data, saves as csv, then push to git
 * schedule_cron_job.py: schedules a crontab job to automatically run "extract_data.py everyday"
